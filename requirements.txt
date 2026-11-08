@@ -1,0 +1,4 @@
+mediapipe
+easyocr
+opencv-python
+pillow
